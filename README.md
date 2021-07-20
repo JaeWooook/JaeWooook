@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=9999FF&height=300&section=header&text=Welcome!%20👋&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbr12345678&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## 📧 Contact
  [![GamilBadge](http://img.shields.io/badge/-mystyle730@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mystyle730@gmail.com)](mailto:mystyle730@gmail.com)
 
